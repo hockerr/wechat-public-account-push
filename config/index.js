@@ -4,16 +4,16 @@ export const config = {
      */
 
     // 公众号APP_ID
-    APP_ID: "",
+    APP_ID: "wx61277cffe37b93d6",
 
     // 公众号APP_SECRET
-    APP_SECRET: "",
+    APP_SECRET: "ac34481bf6d2cd23f231d4e33ee3fc89",
 
     // 模板消息id
-    TEMPLATE_ID: "",
+    TEMPLATE_ID: "bDQ9pmy73BvWMFQDatY9snKGkoSjpBPmsDse1ZgQCgQ",
 
     // 回调消息模板id, 用来看自己有没有发送成功的那个模板
-    CALLBACK_TEMPLATE_ID: "",
+    CALLBACK_TEMPLATE_ID: "oUnA-5vTAB9DCx1443jF-hau5nZg",
 
 
     /**
